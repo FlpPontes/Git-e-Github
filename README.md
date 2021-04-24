@@ -89,4 +89,4 @@ num = int(input('Olá como é com esse comando'))
 print( olá o []).format(num)
 ```
 ---
-Caso queira mais comandos Markdown aperte [Aqui Para acessar.]()
+Caso queira mais comandos Markdown aperte [Aqui Para entender](https://www.youtube.com/watch?v=LntSB-gl-ZI&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&index=10)
