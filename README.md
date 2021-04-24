@@ -27,7 +27,7 @@ Para deixar a palavra ~~Cortada~~, usa-se o ~~ na frente e no final das palavras
 só ficar trocando as configs é ficar muito bem.
 
 ---
-Linha de separação:
+## Linha de separação:
 ---
 Para usar essa linha você pode usar ---  ou *** assim formando a linha de separação acima. OBS. a letra em cima da linha fica como titulo, para poder deixar normal pula só um paragrafo para separar e ficar com ela normal. ficando assim:
 
@@ -59,7 +59,34 @@ Para fazer uma lista de tarefas é só escrever no começo da frase: - [*espaço
 vá em seu arquivo onde tem a foto é leve para a área escrita 'Attach files by dragging & dropping, selecting or pasting them.', e espere dar uploud.
 
 ![hellp_world](https://user-images.githubusercontent.com/83041092/115964956-3eaae380-a4fd-11eb-8e18-bece4d41f64e.png)
+
 ---
 ## Links
 Para criar um link escreva: [texto referente](link escolhido).
 
+[Video explicativo](https://www.youtube.com/watch?v=LntSB-gl-ZI&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&index=10)
+
+---
+## Tabelas:
+Verifica a parte codificada para entender como funciona a tabela, é difícil de esplicar no texto.
+Num|Nome|Idade|Nota
+---|---|---|---
+3|Felipe|14|8,5
+2|Tiago|12|6,5
+1|Paula|14|10
+
+---
+## Destacar uma linha de comando:
+É simplismente colocar o crase no final e no começo da palavra. 
+
+`print(Hello World;)`
+
+## Descatar várias linhas de comando:
+É simplismente colocar três crases no final e no começo dos comandos.
+
+```
+num = int(input('Olá como é com esse comando'))
+print( olá o []).format(num)
+```
+---
+Caso queira mais comandos Markdown aperte [Aqui Para acessar.]()
