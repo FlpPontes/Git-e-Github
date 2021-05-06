@@ -90,3 +90,10 @@ print( olá o []).format(num)
 ```
 ---
 Caso queira mais comandos Markdown aperte [Aqui Para entender](https://www.youtube.com/watch?v=LntSB-gl-ZI&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&index=10)
+
+---
+## Comandos básicos do git pelo terminal caso queire:
+**Comitar:** `git commit` para comitar os comandos, para comitar com mensagem usa se `git commit -m "Mensagem"`
+
+**Atualizar local:** `git pull` para Atualizar o seu documento. Em seu modo padão, `git pull` é uma abreviação para `git fetch`. Se tiver uma branch chamada develop e quiser atualizar caso haja atualizações remotamente usasse `git pull origin develop`.
+
