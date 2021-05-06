@@ -97,3 +97,4 @@ Caso queira mais comandos Markdown aperte [Aqui Para entender](https://www.youtu
 
 **Atualizar local:** `git pull` para Atualizar o seu documento. Em seu modo padão, `git pull` é uma abreviação para `git fetch`. Se tiver uma branch chamada develop e quiser atualizar caso haja atualizações remotamente usasse `git pull origin develop`.
 
+**Empurrar os commits:** `git push` Para comandar seus commits para o repositório. Utilizando o `git puch` as exportações comprometem as filiais remotas. para fazer execute : `git puch[nome_do_repositório]`.
